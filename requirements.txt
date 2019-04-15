@@ -1,0 +1,7 @@
+chainer==5.1.0
+cupy==5.1.0
+gym==0.10.9
+gym-ple==0.3
+imageio==2.4.1
+matplotlib==3.0.2
+numpy==1.15.1
